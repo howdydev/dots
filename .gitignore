@@ -1,0 +1,7 @@
+.config/nvim/.luarc.json
+
+*.swp
+*.swo
+*~
+
+.DS_Store
